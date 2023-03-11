@@ -9,8 +9,8 @@ A new Flutter project.
 ![Screenshot_2023-03-10-23-39-02-921_com example shop_app](https://user-images.githubusercontent.com/127450087/224440266-39767294-4087-476f-834c-0050c10b8064.jpg)
 
 ![Screenshot_2023-03-10-23-38-36-633_com example shop_app](https://user-images.githubusercontent.com/127450087/224440220-327f587e-fb36-43a9-b5ab-5a3167cb436a.jpg)
-![Screenshot_2023-03-10-23-38-46-784_com example shop_app](https://user-images.githubusercontent.com/12745008
+
 ![Screenshot_2023-03-10-23-38-56-170_com example shop_app](https://user-images.githubusercontent.com/127450087/224440254-fef4e787-3677-4e77-ad9a-b24bdfb13f21.jpg)
-7/224440235-1ac893fe-a621-4096-934d-47e80f31898e.jpg)
+
 
 ![Screenshot_2023-03-10-23-38-46-784_com example shop_app](https://user-images.githubusercontent.com/127450087/224440543-1a8645ca-0ab5-4f1a-b96e-45a7ec74371d.jpg)
