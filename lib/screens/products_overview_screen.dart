@@ -14,6 +14,8 @@ import '../providers/products_provider.dart';
 enum FilterOpitions { favorite, all }
 
 class ProductOverviewScreen extends StatefulWidget {
+  const ProductOverviewScreen({super.key});
+
   @override
   State<ProductOverviewScreen> createState() => _ProductOverviewScreenState();
 }
@@ -104,7 +106,7 @@ class _ProductOverviewScreenState extends State<ProductOverviewScreen> {
             icon: const Icon(Icons.more_vert_outlined),
           ),
           Consumer<Cart>(
-            builder: (_, cart, ch) => Badge(
+            builder: (_, cart, ch) => Badgee(
               value: cart.itemCount.toString(),
               child: ch!,
             ),
